@@ -1,5 +1,5 @@
 # 👋 Hi There 
-I'm Sertan M. (a.k.a. TDev) Okcu and it's my github repositiory
+I'm Sertan M. "T" Okcu and it's my github repositiory
 
 # 💫 About Me:
 🧑‍💼I'm currently working on C# and Unity
